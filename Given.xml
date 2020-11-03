@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row>
+		<manufacturer><![CDATA[Opla]]></manufacturer>
+		<name_of_store><![CDATA[GIVEN]]></name_of_store>
+		<sku><![CDATA[W56902810]]></sku>
+		<name><![CDATA[Opla Auskari]]></name>
+		<url_to_product><![CDATA[https://given.lv/lv/berniem/opla-auskari-w56823715]]></url_to_product>
+		<categories><![CDATA[Default Category/Women's fashion/Jewellery/Earrings]]></categories>
+		<short_description><![CDATA[Akmens: Cirkonijs, Citrīns; Materiāla krāsa: Dzeltens; Materiāls: Zelts]]></short_description>
+		<color><![CDATA[Yellow gold]]></color>
+		<price>132.00</price>
+		<special_price>99.00</special_price>
+		<special_price_from_date>01.10.20</special_price_from_date>
+		<special_price_to_date >30.11.20</special_price_to_date >
+		<base_image><![CDATA[https://given.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=92933/image.jpg]]></base_image>
+		<small_image><![CDATA[https://given.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=92933/image.jpg]]></small_image>
+		<thumbnail_image><![CDATA[https://given.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=92933/image.jpg]]></thumbnail_image>
+	</row>
+</root>
